@@ -1,6 +1,6 @@
 <h1 align="center">Base de Datos Universidad</h1>
-![base-datosPHP](https://github.com/lauraRodri98/BaseDatos_Universidad/assets/131816452/6b67ae8c-7bc3-4a14-b8a9-e7ed892275d4)
 
+![base-datosPHP](https://github.com/lauraRodri98/BaseDatos_Universidad/assets/131816452/6b67ae8c-7bc3-4a14-b8a9-e7ed892275d4)
 
 Para descargar y usar la base de datos con XAMPP, puedes seguir los siguientes pasos. Aquí asumiremos que ya tienes instalado XAMPP en tu sistema.
 
